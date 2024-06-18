@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(137, 206, 230);
+}
+p{
+   border: 2px solid;
+    color: rgb(240, 74, 204);
+    text-align: center;
+  
+    font-size: 40px;
+}
+h2{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+footer{
+      background-color: rgb(29, 61, 146);
+      font-size: 30px;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      text-shadow: 2px,2px,2px;
+}
+h4{
+    background-color: rgb(17, 43, 114);
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 2px,2px,2px;
+
+}
